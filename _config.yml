@@ -1,8 +1,8 @@
 # Site settings
 title:          Taisa Grant
 description:    "A Technical Documentation Blog"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        "/"
+url:            "http://taisagrant.com"
 
 # Author
 author:
