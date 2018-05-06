@@ -1,13 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Taisa Grant
+description:    "A Technical Documentation Blog"
 baseurl:        "/tale"
 url:            "https://chesterhow.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
+  name:         Taisa
+  url:          https://taisagrant.com
   email:        chesterhow@gmail.com
 
 # Build settings
