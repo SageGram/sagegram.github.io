@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Automate Sending New Emails From A Specific User To A Google Sheet Using Zapier!
+title: Send New Emails to A Google Sheet Using Zapier!
 author: Taisa Grant
 ---
 ## Introduction 
