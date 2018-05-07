@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Send New Emails to A Google Sheet Using Zapier!
+title: Send New Emails To A Google Sheet Using Zapier!
 author: Taisa Grant
 ---
 ## Introduction 
