@@ -3,19 +3,23 @@ layout: post
 title:  "My First Day In Portand"
 author: "Taisa"
 ---
-I started my day in the early hours in the morning, making my way to the Oakland Airport.
-The purpose of the this trip was to attend the Write the Doc Conference. This particular conferenece birn
+I started my day in the early hours of the morning, making my way to the Oakland Airport.
+The purpose of the this trip was to attend the Write the Doc Conference. This particular conferenece brings together
 Small jet engine plane
+
+
 My seat vibrated the entire flight. The sky's was clear and the snowing mountain top peaks were visible
 I landed into portland and to my surprise it's a sunny humid tropical weather kind of day.
  No breeze and temperature reaching 70 degrees. I took a walk from my hotell to the waterfront where I found a full on carnival with rides and the who shabang due the cinco de mayo celebration. 
 The portland sunday market was in full affect aswells. 
+
 There was live music,
 water fountain was turned on as little one ran about running  in our playfully trying to avoid tko water shooting from out the ground. 
 There were all types of goods for sale mostly handmade goods such as paintings, clothing jewelry etc. 
 The vibe was happy and welcoming. 
 Diverse community well entrenched in mexican culture
 Looks like I landed on a great day.
+
 Boats were in the bay
 All sorts of bikes were on the walkways form for seaters, tricycles and the regular city rentals
 Voodoo doughnut had a long line out the door as promised.
