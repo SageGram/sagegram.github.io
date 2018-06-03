@@ -4,11 +4,13 @@ title:  "My First Day In Portand"
 author: "Taisa"
 ---
 I started my day in the early hours of the morning, making my way to the Oakland Airport.
-The purpose of the this trip was to attend the Write the Doc Conference. This particular conferenece brings together
+The purpose of the this trip was to attend [Writethedocs](http://www.writethedocs.org/conf/portland/2018/). This particular conferenece brings together people who write the docs, "from  Programmers, Tech Writers, Support, Designers, Developer Advocates, and more".
 Small jet engine plane
 
+ * I was feeling deary and cloudy consumed by symptoms of a cold, while the city was vibrant and bright and pulsing with high frequency energy.
 
-My seat vibrated the entire flight. The sky's was clear and the snowing mountain top peaks were visible
+
+My seat vibrated the entire flig/ht. The sky's was clear and the snowing mountain top peaks were visible
 I landed into portland and to my surprise it's a sunny humid tropical weather kind of day.
  No breeze and temperature reaching 70 degrees. I took a walk from my hotell to the waterfront where I found a full on carnival with rides and the who shabang due the cinco de mayo celebration. 
 The portland sunday market was in full affect aswells. 
