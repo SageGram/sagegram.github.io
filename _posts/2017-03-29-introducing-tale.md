@@ -3,7 +3,7 @@ layout: post
 title:  "My First Day In Portand for Write The Docs"
 author: "Taisa"
 ---
-[portland.](https://www.dropbox.com/h)
+
 I started my day in the early hours of the morning, making my way to the Oakland Airport. The purpose of this trip was to attend [Writethedocs](http://www.writethedocs.org/conf/portland/2018/). This particular conference brings together people who write the directions, the how to guide for processes that inform our work and even our daily lives; perhaps we can see them as modern day scribes. These individuals have a variety of roles such as Programmer, Technical Writer, Customer Support, Designer, Developer Advocates, and more".
 
 On a small jet engine plane, I was feeling deary and cloudy consumed by symptoms of a cold. My seat vibrated the entire flight. The sky was clear I enjoyed a beautiful view of mountain peaks covered in snow. I attempted to get an estimate of the planes speed by searching out the furthest mountain peak and timing how long it took the plane to pass it. Mesmerized by a beautiful skyline before I knew it the plane landed in Portland and to my surprise, it was a sunny, humid, tropical weather, kind of day.
