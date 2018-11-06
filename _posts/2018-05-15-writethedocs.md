@@ -5,7 +5,9 @@ author: "Taisa"
 ---
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.dropbox.com/s/53zq3baycsncd86/20180506_175917.jpg?dl=0)
+Format: ![Alt Text](
+        sagegram.github.io/20180506_175917.jpg
+      )
 
 I started my day in the early hours of the morning, making my way to the Oakland Airport. The purpose of this trip was to attend [Writethedocs](http://www.writethedocs.org/conf/portland/2018/). This particular conference brings together people who write the directions, the how to guide for processes that inform our work and even our daily lives; perhaps we can see them as modern day scribes. These individuals have a variety of roles such as Programmer, Technical Writer, Customer Support, Designer, Developer Advocates, and more".
 
