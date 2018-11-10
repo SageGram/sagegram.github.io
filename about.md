@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 <img src="https://github.com/SageGram/sagegram.github.io/blob/master/20160624_123258.jpg"
-	title="marsh Front path" width="700" height="450" />
+	title="marsh Front path" width="700" height="450"/>
 
 I am a Data Analyst who loves to learn and creatively express herself. I have always enjoyed writing, and taking photos and longed to make a living doing so. However, writing and photograpy don't pay very well starting out and they take quite a bit of time and resources to build a career off of. So I had to get creative which is my nature :). 
 
