@@ -5,7 +5,7 @@ author: "Chester"
 permalink: /about/
 ---
 
-<img src="sagegram.github.io/20160624_123258.jpg"
+<img src="http://taisagrant.com/20160624_123258.jpg"
       
 	title="Water Front View" width="700" height="450" />
 
