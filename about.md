@@ -4,12 +4,10 @@ title: "About"
 author: "Chester"
 permalink: /about/
 ---
+I am a Data Analyst who loves to learn and creatively express herself. I have always enjoyed writing, and taking photos and longed to make a living doing so. Howerver, writing and photograpy don't pay very well and they take quite a bit of time and resources to build a career off of. So I had to get creative which is my nature :). 
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+I have learned some web development languages such as HTML, CSS, Bootstrap, and of course SQL a language that communicates with databases.
+I also learned how to use github and I am now in the process of combining two worlds that I never new could exist togheter. I have adapted technical skills that will allow me to share my writing on those things that interest me from technical writing, creative writing and photography. I have always enjoyed taking pictures of everything, person and place since I was a young child. I think life is so bueatiful and I am in awe that a camera can capture and freeze moments in time. 
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Please enjoy my creative space here at TaisaGrant.com!
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
