@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Send New Emails To A Google Sheet Using Zapier!
+title: Save New Emails To A Google Sheet Using Zapier!
 author: Taisa Grant
 ---
 ## Introduction 
@@ -28,6 +28,8 @@ Below you will find a table of contents made up of the exact steps you must take
 ----------
 ## Make A Zap
 - Click the neon orange button with white writing that says Make A Zap! 
+
+<img src="/images/explore.jpg" />
 
 ![explore image](https://sagegram.github.io/images/explore.jpg)
 
