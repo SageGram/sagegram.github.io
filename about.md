@@ -19,5 +19,5 @@ I am a Data Analyst who loves getting to the facts. My journey into the world of
 
 # Education
 
-# Last Three Jobs
+# Accomplishments
 
