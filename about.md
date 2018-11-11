@@ -7,11 +7,17 @@ permalink: /about/
 
 <img src="/20160624_123258.jpg" />
 
+# About The Blog
 
-I am a Data Analyst who loves to learn and creatively express herself. I have always enjoyed writing, and taking photos and longed to make a living doing so. However, writing and photograpy don't pay very well starting out and they take quite a bit of time and resources to build a career off of. So I had to get creative which is my nature :). 
+In this blog you will find technical writing that teaches you use cool automation tools, for example read: "Save New Emails to a Googlesheet Using Zapier" Or read about my experience at technical conferences and other tech related articles. You will also find creative writing and of course beautiful photographs. I chosen to combine all my passions into one. Let me know what you think. 
 
-I have learned some web development languages such as HTML, CSS, Bootstrap, and of course SQL a language that communicates with databases.
-I also learned how to use github and I am now in the process of combining two worlds that I never new could exist together. I have gained technical skills that will allow me to share my writing on those things that interest me from technical writing, creative writing and photography. I have always enjoyed taking pictures of every thing, person and place since I was a young child. I think life is so bueatiful and I am in awe that a camera can capture and freeze moments in time. 
+# Professional Bio
 
-Please enjoy my creative space here at TaisaGrant.com!
+I am a Data Analyst who loves getting to the facts. My journey into the world of coding started in 2013 with off and on dedication. Howerver, with everyone on period I gained a knowledge base. I learned some web development languages such as HTML, CSS, Bootstrap, and of course SQL a language that communicates with databases.
+
+# Skills
+
+# Education
+
+# Last Three Jobs
 
