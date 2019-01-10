@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inspired By Black Panther When All We Need To Do Is Look to Africa"
+title: "Shuri Taught Me the Technical Field Needs Black Women"
 author: "Taisa Grant"
 ---
 
