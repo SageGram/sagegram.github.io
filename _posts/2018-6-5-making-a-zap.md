@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save New Emails To A Google Sheet Using Zapier!
+title: Save New Emails To A Google Sheet Using Zapier
 author: Taisa Grant
 ---
 ## Introduction 
