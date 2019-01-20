@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 
+title: Shuri Taught Me the Technical Field Needs Black Women 
 author: "Taisa Grant"
+---
 
 <img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/Text%20placeholder.png"
 	title="Sisters" width="600" height="350" />
