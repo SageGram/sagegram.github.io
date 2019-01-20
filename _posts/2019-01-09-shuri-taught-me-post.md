@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Shuri Taught Me the Technical Field Needs Black Women"
+title: <img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/20180506_175917.jpg"
+	title="Water Front View" width="700" height="450" />
 author: "Taisa Grant"
 ---
 
