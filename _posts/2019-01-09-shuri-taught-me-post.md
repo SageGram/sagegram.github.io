@@ -5,7 +5,7 @@ author: "Taisa Grant"
 ---
 
 <img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/Text%20placeholder.png"
-	title="Sisters" width="600" height="350" />
+	title="Sisters" width="800" height="350" />
   
 ### The film Black Panther has proved to be a huge level up in terms of representation. 
 In a time where representation or the lack of representation is a huge topic of interest, it was hard not to be inspired, activated and motivated by the wonderful characters of the Black Panther Film. I feel like Black Panther gave us everything we are fighting for, as black women, men and people of color and or those that would like to get as close to a utopian society as possible.
