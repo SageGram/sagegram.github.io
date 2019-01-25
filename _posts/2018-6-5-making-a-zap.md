@@ -35,10 +35,10 @@ Below you will find a table of contents made up of the exact steps you must take
 ## Trigger Setup 
 
 ### Choose a Trigger App
-
 - Select: Gmail for the trigger app.
+
 <img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/app%20(1).jpg"
-	title="Sisters" width="550" height="300"/>
+title="Sisters" width="550" height="300"/>
 
 ### Select Gmail Trigger 
 
