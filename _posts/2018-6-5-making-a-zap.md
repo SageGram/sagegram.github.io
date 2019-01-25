@@ -29,9 +29,8 @@ Below you will find a table of contents made up of the exact steps you must take
 ## Make A Zap
 - Click the neon orange button with white writing that says Make A Zap! 
 
-<img src="/images/explore.jpg" />
-
-![explore image](https://sagegram.github.io/images/explore.jpg)
+<img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/explore.jpg"
+	title="make a zap" width="450" height="200" />
 
 ## Trigger Setup 
 
