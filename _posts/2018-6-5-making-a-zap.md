@@ -37,8 +37,8 @@ Below you will find a table of contents made up of the exact steps you must take
 ### Choose a Trigger App
 
 - Select: Gmail for the trigger app.
-
-![app.jpg](https://sagegram.github.io/images/app.jpg)
+<img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/app%20(1).jpg"
+	title="Sisters" width="550" height="300"/>
 
 ### Select Gmail Trigger 
 
