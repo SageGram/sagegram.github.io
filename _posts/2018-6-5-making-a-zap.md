@@ -38,13 +38,14 @@ Below you will find a table of contents made up of the exact steps you must take
 - Select: Gmail for the trigger app.
 
 <img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/app%20(1).jpg"
-title="Sisters" width="550" height="300"/>
+title="app" width="550" height="300"/>
 
 ### Select Gmail Trigger 
 
 - Select: "New Email: Triggers when you receive a new email."
 
-![action.jpg](https://sagegram.github.io/images/action.jpg)
+<img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/action.jpg"
+title="action" width="550" height="300"/>
 
 ### Select Gmail Account
 
