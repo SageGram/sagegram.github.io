@@ -13,7 +13,17 @@ Read my blog and let me know how helpful it is informing your technical journey 
 
 # Professional Bio
 
-I am a Data Analyst who loves getting to the facts. My journey into the world of coding started in 2013 with off and on dedication. Howerver, with every on period, I gained a knowledge base. I learned some web development languages such as HTML, CSS, Bootstrap, and of course SQL a language that communicates with databases.
+I am a Mental Health Data Analyst who loves getting to the facts. My journey into the world of coding started in 2013 with off and on dedication. Howerver, with every on period, I gained a knowledge base. I learned some web development languages such as HTML, CSS, Bootstrap, and of course SQL a language that communicates with databases.
+
+# Current Job Duties
+- I help process the billing for Alameda, San Francisco and Solano County.
+- I print reports from the county systems in addition to supporting the creation of data requests/reports.
+- I am on the Marketing team that:
+- Maintains the ABW website.
+- Generates content for a blog and website.
+- Manages the organizations social media platforms.
+- Assists in the development of fundraising campaigns.
+- I assist in the creation of user guide documentation for the databases used by other departments.
 
 # Skills
 - A Broad experience in project management from social services to technology initiatives
@@ -32,7 +42,7 @@ Stony Brook University     African Studies
 
 # Accomplishments
 Publications:
-- Coronado YMCA, MFI, Team Up for Resource Fair    <http://richmondpulse.org/coronado-ymca-mfi-team-up-for-resource-fair/>
+- [Coronado YMCA, MFI, Team Up for Resource Fair](http://richmondpulse.org/coronado-ymca-mfi-team-up-for-resource-fair/>)
 - DIAPER DRIVE IS LOVE IN ACTION 
 - Youth Brings Poetry Slam Title Home to Richmond 
 - Youth Organize to End Violence, “Reclaim Richmond” 
