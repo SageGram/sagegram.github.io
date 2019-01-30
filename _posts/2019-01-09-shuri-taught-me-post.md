@@ -4,7 +4,7 @@ title: Shuri Taught Me the Technical Field Needs Black Women
 author: "Taisa Grant"
 ---
 
-<img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/Text%20placeholder.png"
+<img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/clarke-sanders-249797-unsplash.jpg"
 	title="Sisters" width="800" height="450"/> [Photo By Clarke Sanders on Unsplash](https://unsplash.com/search/photos/black-women)
   
 ### The film Black Panther has proved to be a huge level up in terms of representation. 
