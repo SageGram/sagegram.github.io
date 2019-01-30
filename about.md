@@ -42,7 +42,7 @@ Stony Brook University     African Studies
 
 # Accomplishments
 Publications:
-- [Coronado YMCA, MFI, Team Up for Resource Fair](http://richmondpulse.org/coronado-ymca-mfi-team-up-for-resource-fair/>)
+- [Coronado YMCA, MFI, Team Up for Resource Fair](https://richmondpulse.org/2012/07/16/coronado-ymca-mfi-team-up-for-resource-fair/)
 - DIAPER DRIVE IS LOVE IN ACTION 
 - Youth Brings Poetry Slam Title Home to Richmond 
 - Youth Organize to End Violence, “Reclaim Richmond” 
