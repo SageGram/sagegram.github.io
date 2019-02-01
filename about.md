@@ -16,15 +16,16 @@ Read my blog and let me know how helpful it is informing your technical journey 
 I am a Mental Health Data Analyst who loves getting to the facts. My journey into the world of coding started in 2013 with off and on dedication. Howerver, with every on period, I gained a knowledge base. I learned some web development languages such as HTML, CSS, Bootstrap, and of course SQL a language that communicates with databases.
 
 # Current Job Duties
-- I upload billable notes to Alameda, San Francisco and Solano County System
+- Process Medical Billing for Alameda, San Francisco and Solano County
 - Maintain and create staff information in the OA database
-- Reposnisble to for creating new user accounts and maintaining user accounts in our EHR system 
-- I print reports from the county systems in addition to supporting the creation of data requests and reports.
+- Responisble for creating new user accounts and maintaining user accounts in our EHR system 
+- Print Reports from the county systems 
+- Fulfill data requests for the various departments across the agency
 - Maintain the ABW website
-- Generate content for ABW blog and website.
-- Manages the organizations twitter account.
-- Assists in the development of fundraising campaigns.
-- Create user guide documentation for the databases used by other departments.
+- Generate content for ABW blog and website
+- Manage the organizations twitter account
+- Assists in the development of fundraising campaigns
+- Create user guide documentation for the databases used by other departments throughout the organization
 
 # Skills
 - A Broad experience in project management from social services to technology initiatives
@@ -51,7 +52,7 @@ Publications:
 - Sugar Is Like Crack
 
 Featured Publications
--[What We Carry Stories Black Women Never Tell](href=https://www.amazon.com/What-We-Carry-Stories-Black/dp/1721995145/ref=sr_1_2?ie=UTF8&qid=1543199673&sr=8-2&keywords=stories+black+women+never+tell)
+-[What We Carry Stories Black Women Never Tell](https://www.amazon.com/What-We-Carry-Stories-Black/dp/1721995145/ref=sr_1_2?ie=UTF8&qid=1549005866&sr=8-2&keywords=what+we+carry+stories+black+women+never+tell)
 
 <img src="http://taisagrant.com/Stories%20Black%20Women%20Never%20Tell%20Image.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10">
