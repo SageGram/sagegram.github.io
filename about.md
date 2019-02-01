@@ -52,7 +52,7 @@ Publications:
 - Sugar Is Like Crack
 
 Featured Publications
-[What We Carry Stories Black Women Never Tell](https://www.amazon.com/What-We-Carry-Stories-Black/dp/1721995145/ref=sr_1_2?ie=UTF8&qid=1549005866&sr=8-2&keywords=what+we+carry+stories+black+women+never+tell)
+[What We Carry Stories Black Women Never Tell](https://www.amazon.com/What-We-Carry-Stories-Black/dp/1721995145/ref=sr_1_2?ie=UTF8&qid=1549005866&sr=8-2&keywords=what+we+carry+stories+black+women+never+tell
 
 <img src="http://taisagrant.com/Stories%20Black%20Women%20Never%20Tell%20Image.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10">
