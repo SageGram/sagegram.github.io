@@ -53,8 +53,8 @@ title="action" width="550" height="300"/>
 
 *Note: Later on make sure you choose the Google Drive account associated with the same Gmail Account you just chose.* 
 
-![auth.jpg](https://sagegram.github.io/images/auth.jpg)
-
+<img src="https://github.com/SageGram/sagegram.github.io/blob/master/auth%20(1).jpg"
+title="app" width="550" height="300"/>
 
 ### Set Up Gmail Email
 
