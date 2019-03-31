@@ -58,7 +58,8 @@ title="app" width="550" height="300"/>
 
 ### Set Up Gmail Email
 
-![fields.jpg](https://sagegram.github.io/images/fields.jpg)
+<img src="https://github.com/SageGram/sagegram.github.io/blob/master/fields%20(1).jpg"
+title="app" width="550" height="300"/>
 
 - Select: "Inbox" By clicking on drop the down arrow on the right-hand side of the box that has a sub-header that says "Label/Mailbox."
 
