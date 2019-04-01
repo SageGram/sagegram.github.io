@@ -68,13 +68,11 @@ title="app" width="550" height="300"/>
 
 ### “Test Gmail
 
-- For the test to be successful, you must have a new email in your inbox.  If you don’t, you can always send yourself an email.
-Example: Joe85@gmail.com to Joe85@gmail.com
-
 <img src="https://github.com/SageGram/sagegram.github.io/blob/master/fields%20(3).jpg"
 title="app" width="550" height="300"/>
 
-![sample.jpg](https://sagegram.github.io/images/sample.jpg)
+- For the test to be successful, you must have a new email in your inbox.  If you don’t, you can always send yourself an email.
+Example: Joe85@gmail.com to Joe85@gmail.com
 
 ----------
 ## Action Setup 
