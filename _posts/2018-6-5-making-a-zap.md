@@ -68,7 +68,7 @@ title="app" width="550" height="300"/>
 
 ### “Test Gmail
 
-<img src="https://github.com/SageGram/sagegram.github.io/blob/master/fields%20(3).jpg"
+<img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/fields%20(3).jpg"
 title="app" width="550" height="300"/>
 
 - For the test to be successful, you must have a new email in your inbox.  If you don’t, you can always send yourself an email.
