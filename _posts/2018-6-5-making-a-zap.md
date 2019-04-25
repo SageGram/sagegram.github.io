@@ -63,7 +63,7 @@ title="app" width="550" height="300"/>
 
 - Select: "Inbox" By clicking on drop the down arrow on the right-hand side of the box that has a sub-header that says "Label/Mailbox."
 
-<img src="https://github.com/SageGram/sagegram.github.io/blob/master/fields%20(2).jpg"
+<img src="https://raw.githubusercontent.com/SageGram/sagegram.github.io/master/fields%20(2).jpg"
 title="app" width="550" height="300"/>
 
 ### “Test Gmail
