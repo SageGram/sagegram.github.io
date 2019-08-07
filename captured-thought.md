@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About"
+title: "Captured-Thought"
 author: "Taisa"
 permalink: /captured-thought/
 ---
