@@ -2,5 +2,5 @@
 layout: post
 title: "About"
 author: "Taisa"
-permalink: /about/
+permalink: /captured-thought/
 ---
