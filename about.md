@@ -56,8 +56,8 @@ I welcome the opportunity to discuss with you how my prior work experience has p
 
 # Education
 
-Humboldt State University Bachelor of Arts (BA) Ethnic, Cultural Minority, Gender, and Group Studies
-Stony Brook University     African Studies
+- Humboldt State University Bachelor of Arts (BA) Ethnic, Cultural Minority, Gender, and Group Studies
+- Stony Brook University     African Studies
 
 # Accomplishments
 Publications:
