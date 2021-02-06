@@ -9,7 +9,7 @@ permalink: /about/
 
 # About The Blog
 
-Read my blog and let me know how helpful it is informing your technical journey as we all gear up to be viable in this technically evolvling age. In this blog you will find how to guides on using technical tools like posting on multiple social media platforms at once. For example read: "Save New Emails To A Googlesheet Using Zapier" Or read about my experience at technical conferences and other tech related articles. You will also find creative writing and of course beautiful photographs. 
+You will find all things Taisa, my professional background, creative pieceses and posts about data, python projects and my tips on working with sql and anything that interest me. Hope you enjoy and get something from it.
 
 # Professional Bio
 
