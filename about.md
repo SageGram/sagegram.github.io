@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 <img src="/20160624_123258.jpg" />
+# Life is a journey, you never really know whats at the far end of the path. However, one moves forward in hopes of something better.
 
 # About The Blog
 
