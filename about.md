@@ -13,7 +13,20 @@ Read my blog and let me know how helpful it is informing your technical journey 
 
 # Professional Bio
 
-I am a Mental Health Data Analyst who loves getting to the facts. My journey into the world of coding started in 2013 with off and on dedication. Howerver, with every on period, I gained a knowledge base. I learned some web development languages such as HTML, CSS, Bootstrap, and of course SQL a language that communicates with databases.
+My name is Taisa Grant, I work for A Better Way Inc (ABW), a non-profit organization that has a profound impact on people's lives providing comprehensive social services in behavioral health, foster care & adoption, family strengthening, and parent advocacy for children and families. 
+
+As the Mental Health Data Analyst, I've had the pleasure of contributing to the positive impact ABW has on the lives of the communities we serve. I work very closely with our program directors, supervisors, clinical staff, and mental health coordinators. I create dashboards that improve and inform the quality of our services and data entry into our Electronic Health Record (EHR). I create reports using the data analysis platform Sisense, which integrates advanced data analysis, visualization, and predictive modeling tools. Such reports provide programs with real-time monitoring of contract requirements, deliverables, and the impact our services have on clients. In addition to managing our EHR system and all user accounts within the system, I was responsible for tracking and processing all medical billing which provided the necessary revenue needed to continue serving children and families.
+
+My Impact On:
+
+Clinical Staff is improved accuracy of their workflow. I created reports that displayed the status of forms and progress notes that were required before behavioral health services could be rendered. This report prevented loss of valuable time and revenue.
+
+Mental Health Coordinators was improving the quality, consistency and maintenance of the client data 
+entered into the EHR system. The reports generated allowed coordinators to track clients missing data which improved the client registration timeline, therefore speeding up the time it takes a client to receive services and helped the program meet contract quality assurance requirements. 
+
+Program Directors improved their ability to track monthly revenue, staff productivity and training needs.
+
+I welcome the opportunity to discuss with you how my prior work experience has prepared me to be an impactful contributor and leader in your organization.
 
 # Current Job Duties
 - Process Medical Billing for Alameda, San Francisco and Solano County
@@ -28,6 +41,7 @@ I am a Mental Health Data Analyst who loves getting to the facts. My journey int
 - Create user guide documentation for the databases used by other departments throughout the organization
 
 # Skills
+
 - A Broad experience in project management from social services to technology initiatives
 - Worked as journalist and leveraged those abilities to work as a technical writer
 - Proficient in WordPress and content management systems
@@ -36,6 +50,8 @@ I am a Mental Health Data Analyst who loves getting to the facts. My journey int
 - Proficient in Microsoft Word & Excel, SharePoint and Google Drive. 
 - Certified Scrum Master 
 - A working proficiency with version control (Git).
+- Advanced skillset in Redshift SQL
+- Advanced Skillset in Microsoft Office 365 
 
 # Education
 
