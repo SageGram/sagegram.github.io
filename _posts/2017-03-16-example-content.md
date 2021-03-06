@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Example Content"
+title: "Python Cheat Sheet"
 author: "Chester"
 ---
 
