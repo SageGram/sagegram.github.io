@@ -9,6 +9,15 @@ Python is a programming language created by Guido van Rossun in the late 1980's.
 
 Source:Learn Python in One Day and Learn It Well.
 
+Things to learn:
+THINGS YOU MIGHT DO
+Develop ETL to ingest and transform data from upstream databases and APIs into a data warehouse. 
+The tools used include AWS Redshift, NiFi, Kafka, Matillion ETL, and custom Python.
+Data modeling, including designing and expanding slowly changing dimension and fact tables.
+As a part of Zapier's all-hands philosophy, help customers via support or user research to ensure they have the best experience possible.
+
+
+
 # Headers
 {% highlight markdown %}
 # H1
