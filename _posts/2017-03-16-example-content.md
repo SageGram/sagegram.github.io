@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Python Cheat Sheet"
-author: "Chester"
+author: "Taisa"
 ---
+What is Python: Python is a programming language created by Guido van Rossun in the late 1980's. The language emphasizes on code readability and simplicity. Python can be used for a variety of tasks, such as desktop applications, database applications, network programming, game programming and mobile development. Finally Python is a cross platform language, which means the code written for one operating systey, such as windows, will wokr on Mac OS and Linux without making any changes to the python code"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
+## Source:Learn Python in One Day and Learn It Well.
 
 # Headers
 {% highlight markdown %}
