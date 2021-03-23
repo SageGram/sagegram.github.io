@@ -10,7 +10,7 @@ Life is a journey, you never really know whats at the far end of the path. Howev
 
 # About The Blog
 
-You will find all things Taisa, my professional background, creative pieceses and posts about data, python projects and my tips on working with sql and anything that interest me. Hope you enjoy and get something from it.
+You will find all things Taisa, my professional background, creative pieces and posts about data, python projects and my tips on working with sql and anything that interests me. Hope you enjoy and get something from it.
 
 # Professional Bio
 
