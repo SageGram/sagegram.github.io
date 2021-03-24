@@ -10,13 +10,13 @@ Life is a journey, you never really know whats at the far end of the path. Howev
 
 # About The Blog
 
-You will find all things Taisa, my professional background, creative pieces and posts about data, python projects and my tips on working with sql and anything that interests me. Hope you enjoy and get something from it.
+My name is Taisa Grant, I work for A Better Way Inc (ABW), a non-profit organization that has a profound impact on people's lives providing comprehensive social services in behavioral health, foster care, adoption, family strengthening, and parent advocacy for children and families. 
 
 # Professional Bio
 
 My name is Taisa Grant, I work for A Better Way Inc (ABW), a non-profit organization that has a profound impact on people's lives providing comprehensive social services in behavioral health, foster care & adoption, family strengthening, and parent advocacy for children and families. 
 
-As the Mental Health Data Analyst, I've had the pleasure of contributing to the positive impact ABW has on the lives of the communities we serve. I work very closely with our program directors, supervisors, clinical staff, and mental health coordinators. I create dashboards that improve and inform the quality of our services and data entry into our Electronic Health Record (EHR). I create reports using the data analysis platform Sisense, which integrates advanced data analysis, visualization, and predictive modeling tools. Such reports provide programs with real-time monitoring of contract requirements, deliverables, and the impact our services have on clients. In addition to managing our EHR system and all user accounts within the system, I was responsible for tracking and processing all medical billing which provided the necessary revenue needed to continue serving children and families.
+As the Mental Health Data Analyst for the past 3 years, I've had the pleasure of contributing to ABW’s mission working with cross-functional teams creating dashboards that improve the quality of our services and data entry into our Electronic Health Record (EHR). I create reports using the data analysis platform Sisense, which integrates advanced data analysis, visualization, and predictive modeling tools. Such reports provide programs with real-time monitoring of contract requirements, deliverables, and the impact our services have on clients. In addition to managing our EHR system and all user accounts within the system, I was responsible for tracking and processing all medical billing which provided the necessary revenue needed to continue serving children and families.
 
 My Impact On:
 
@@ -26,20 +26,6 @@ Mental Health Coordinators was improving the quality, consistency and maintenanc
 entered into the EHR system. The reports generated allowed coordinators to track clients missing data which improved the client registration timeline, therefore speeding up the time it takes a client to receive services and helped the program meet contract quality assurance requirements. 
 
 Program Directors improved their ability to track monthly revenue, staff productivity and training needs.
-
-I welcome the opportunity to discuss with you how my prior work experience has prepared me to be an impactful contributor and leader in your organization.
-
-# Current Job Duties
-- Process Medical Billing for Alameda, San Francisco and Solano County
-- Maintain and create staff information in the OA database
-- Responisble for creating new user accounts and maintaining user accounts in our EHR system 
-- Print Reports from the county systems 
-- Fulfill data requests for the various departments across the agency
-- Maintain the ABW website
-- Generate content for ABW blog and website
-- Manage the organizations twitter account
-- Assists in the development of fundraising campaigns
-- Create user guide documentation for the databases used by other departments throughout the organization
 
 # Skills
 
