@@ -10,17 +10,15 @@ Life is a journey, you never really know whats at the far end of the path. Howev
 
 # About The Blog
 
-My name is Taisa Grant, I work for A Better Way Inc (ABW), a non-profit organization that has a profound impact on people's lives providing comprehensive social services in behavioral health, foster care, adoption, family strengthening, and parent advocacy for children and families. 
+You will find all things Taisa, my professional background, creative pieces and posts about data, python projects and my tips on working with sql and anything that interests me. Hope you enjoy and get something from it.
 
 # Professional Bio
 
-My name is Taisa Grant, I work for A Better Way Inc (ABW), a non-profit organization that has a profound impact on people's lives providing comprehensive social services in behavioral health, foster care & adoption, family strengthening, and parent advocacy for children and families. 
-
-As the Mental Health Data Analyst for the past 3 years, I've had the pleasure of contributing to ABW’s mission working with cross-functional teams creating dashboards that improve the quality of our services and data entry into our Electronic Health Record (EHR). I create reports using the data analysis platform Sisense, which integrates advanced data analysis, visualization, and predictive modeling tools. Such reports provide programs with real-time monitoring of contract requirements, deliverables, and the impact our services have on clients. In addition to managing our EHR system and all user accounts within the system, I was responsible for tracking and processing all medical billing which provided the necessary revenue needed to continue serving children and families.
+I currtently hold the position as a Mental Health Data Analyst at A Better Way Inc.(ABW). For the past 3 years, I've had the pleasure of contributing to ABW’s mission by working with cross-functional teams creating dashboards that improve the quality of our services and data entry into our Electronic Health Record (EHR). I create reports using the data analysis platform Sisense, which integrates advanced data analysis, visualization, and predictive modeling tools. Such reports provide programs with real-time monitoring of contract requirements, deliverables, and the impact our services have on clients. In addition to managing our EHR as the system administrator providing troubleshooting support, the creation and maintance of all user accounts within the system, I was responsible for tracking and processing all medical billing which provided the necessary revenue needed to continue serving children and families.
 
 My Impact On:
 
-Clinical Staff is improved accuracy of their workflow. I created reports that displayed the status of forms and progress notes that were required before behavioral health services could be rendered. This report prevented loss of valuable time and revenue.
+Clinical Staff is improved accuracy of their workflow. I created reports that displayed the status of forms and progress notes that were required before behavioral health services could be rendered. such reports prevented loss of valuable time and revenue.
 
 Mental Health Coordinators was improving the quality, consistency and maintenance of the client data 
 entered into the EHR system. The reports generated allowed coordinators to track clients missing data which improved the client registration timeline, therefore speeding up the time it takes a client to receive services and helped the program meet contract quality assurance requirements. 
@@ -34,8 +32,7 @@ Program Directors improved their ability to track monthly revenue, staff product
 - Proficient in WordPress and content management systems
 - Working proficiency with HTML web page development
 - Proficient with various CRM and service desks such as Zoho, Zendesk, and Salesforce
-- Proficient in Microsoft Word & Excel, SharePoint and Google Drive. 
-- Certified Scrum Master 
+- Advance skillset in Microsoft Word & Excel, SharePoint and Google Drive. 
 - A working proficiency with version control (Git).
 - Advanced skillset in Redshift SQL
 - Advanced Skillset in Microsoft Office 365 
