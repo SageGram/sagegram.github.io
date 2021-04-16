@@ -22,7 +22,7 @@ Source:Learn Python in One Day and Learn It Well.
 {% endhighlight %}
 
 # Data Software
-**SPSS:** IBM SPSS Statistics is a software package used for interactive, or batched, statistical analysis. Long produced by SPSS Inc., it was acquired by IBM in 2009. Current versions (post 2015) have the brand name: IBM SPSS Statistics. The software name originally stood for Statistical Package for the Social Sciences (SPSS),[2] reflecting the original market, then later changed to Statistical Product and Service Solutions.[3][4]
+**SPSS:** IBM SPSS Statistics is a software package used for interactive, or batched, statistical analysis. Long produced by SPSS Inc., it was acquired by IBM in 2009. Current versions (post 2015) have the brand name: IBM SPSS Statistics. The software name originally stood for Statistical Package for the Social Sciences (SPSS),[2] reflecting the original market, then later changed to Statistical Product and Service Solutions.
 ### H3
 #### H4
 ##### H5
