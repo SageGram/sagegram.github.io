@@ -11,8 +11,8 @@ Source:Learn Python in One Day and Learn It Well.
 
 # Vocabulary
 {% highlight markdown %}
-# ETL: Is the process of extracting, transforming and loading the data to store it in a data warehouse urces.Oct 17, 2018
-# Data warehouse: while the data warehouse is a central location that is used to store consolidated data from multiple data so
+# ETL: Is the process of extracting, transforming and loading the data to store it in a data warehouse.
+# Data warehouse: The data warehouse is a central location that is used to store consolidated data from multiple data sources.
 ### H3
 #### H4
 ##### H5
