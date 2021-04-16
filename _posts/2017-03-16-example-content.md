@@ -9,10 +9,10 @@ Python is a programming language created by Guido van Rossun in the late 1980's.
 
 Source:Learn Python in One Day and Learn It Well.
 
-# Headers
+# Vocabulary
 {% highlight markdown %}
-# H1
-## H2
+# ETL: Is the process of extracting, transforming and loading the data to store it in a data warehouse urces.Oct 17, 2018
+# Data warehouse: while the data warehouse is a central location that is used to store consolidated data from multiple data so
 ### H3
 #### H4
 ##### H5
